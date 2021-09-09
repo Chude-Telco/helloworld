@@ -1,4 +1,4 @@
-# helloworld
+# helloworld Tested on Kubernetes cluster v1.22.0
 
 
 vagrant@kubemaster:~/kubernetes-engine-samples/hello-app/manifests$ curl http://10.100.80.165:8080
